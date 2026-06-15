@@ -41,7 +41,7 @@ A console-based RPG management system built with Python and MySQL. This project 
 | health | INT          |
 | damage | INT          |
 
-## Installation
+## Installation ⚙️
 
 ```bash
 pip install mysql-connector-python
@@ -91,7 +91,7 @@ RPG-Character-Management-System
 └── menu.py
 ```
 
-## APP Preview
+## APP Preview 🔍
 
 ### Main Menu
 ![Main Menu](screenshots/mainmenu.png)
