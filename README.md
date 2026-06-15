@@ -97,27 +97,45 @@ RPG-Character-Management-System
 ![Main Menu](screenshots/mainmenu.png)
 
 ### Hero Management
+1. Menu
 ![Hero Management Menu](screenshots/menuhero.png)
+2. List hero
 ![Hero Management Look](screenshots/lookhero.png)
+3. Add Hero
 ![Hero Management Add](screenshots/addhero.png)
+4. Change Hero
 ![Hero Management Change](screenshots/changehero.png)
+5. Delete Hero
 ![Hero Management Delete](screenshots/deletehero.png)
+6. Back
 ![Hero Management Back](screenshots/backfrom_menuhero.png)
 
 ### Enemy Management
+1. Menu
 ![Hero Management Menu](screenshots/menuenemy.png)
+2. Enemy List
 ![Hero Management Look](screenshots/lookenemy.png)
-![Hero Management Add](screenshots/addenemy.png)
+3. Add Enemy
+![Hero Management Add](screenshots/addmenuenemy.png)
+4. Change Enemy
 ![Hero Management Change](screenshots/changeenemy.png)
+5. Delete Enemy
 ![Hero Management Delete](screenshots/deleteenemy.png)
+6. Back
 ![Hero Management Back](screenshots/backfrom_menuenemy.png)
 
 ### Battle System
+1. Menu
 ![Battle System Menu](screenshots/playmenu.png)
+2. Hero Attack
 ![Battle System Hero Attack](screenshots/heroattack.png)
+3. Hero Regen
 ![Battle System Hero Regen](screenshots/heroregen.png)
+4. Enemy Attack
 ![Battle System Enemy Attack](screenshots/enemyattack.png)
+5. Add Damage
 ![Battle System Add Damage](screenshots/adddamage.png)
+6. Exit
 ![Battle System Exit](screenshots/exit.png)
 
 
